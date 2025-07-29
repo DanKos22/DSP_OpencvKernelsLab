@@ -1,0 +1,1 @@
+This repository contains example implementations of various convolution kernels applied to images using OpenCV and NumPy. It serves as a practical lab for exploring how different kernels affect images for tasks like blurring, sharpening, embossing, and edge detection.
